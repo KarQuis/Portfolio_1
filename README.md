@@ -1,6 +1,8 @@
 # Portafolio
 
-- Página para portafolio de desarrollo web, utilizando Bootstrap 😁
+- Página para portafolio de desarrollo web.
+- Utilizando Bootstrap 😁
+- Version 1.0
 
 ----
 ###### Para ver la página visita el siguiente enlace
